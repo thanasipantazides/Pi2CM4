@@ -1,0 +1,4 @@
+*.DS_Store
+/Pi2CM4-backups/
+fp-info-cache
+fp-lib-table
